@@ -1,0 +1,2 @@
+relative_path,filename,basename,extension,rename
+./example.txt,example.txt,example,.txt,new_name.txt
